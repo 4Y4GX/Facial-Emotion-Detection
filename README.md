@@ -42,7 +42,7 @@ It has many options:
 
 ---
 
-## Results (fill these in after a good run)
+## Results (To be filled after it runs successfully)
 - Val Accuracy: `XX.X%`
 - Best epoch: `N`
 - Notes: `e.g., better with grayscale + data augmentation`
